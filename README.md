@@ -1,6 +1,6 @@
 pyQ
 ===
-An extremly lightwaight queue webservice built on python bottle
+An extremely lightweight queue web service built on python bottle
 
 **Usage:**
 
