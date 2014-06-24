@@ -37,4 +37,5 @@ def postMessage():
 	messages.append(request.query.message)
 	return "Added\n"
 
-run(host='localhost', port=8080, debug=True)
+if __name__ == "__main__":
+	run(host='localhost', port=8080, debug=True)
