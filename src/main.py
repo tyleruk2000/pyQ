@@ -25,16 +25,9 @@ def index():
         <head>
                 <meta charset="UTF-8">
                 <title>pyQ</title>
-                <style>
-                        div
-                        {
-                        	margin: 0 auto;
-                        	width: 1280px;
-                        }
-                </style>
         </head>
         <body >
-                <div><h1>pyQ</h1></div>
+                <h1>pyQ</h1>
         </body>
 	</html>
 	'''
